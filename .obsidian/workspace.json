@@ -1,0 +1,305 @@
+{
+  "main": {
+    "id": "426d7d5d54fa23b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "46677c39ee298a64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b23c6bb67342340",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未分类/obsidian help/backlinks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "backlinks"
+            }
+          },
+          {
+            "id": "f6ecc63fa41ceaa6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "测试同步.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "测试同步"
+            }
+          },
+          {
+            "id": "3482b4978c9c1351",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未分类/obsidian help/web clipper.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "web clipper"
+            }
+          },
+          {
+            "id": "d4bf931c03c6bacd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未分类/code/正则表达式必知必会.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "正则表达式必知必会"
+            }
+          },
+          {
+            "id": "7a9f5d6d946f748e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未分类/code/git测试.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "git测试"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "440c917407d93c81",
+    "type": "split",
+    "children": [
+      {
+        "id": "b035f5fa4c02fa77",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29bd798ffb83ce18",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3d3c2db5c088e5fd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fa5ef600abe2e961",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "64839aae9aaf22d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2f3a4ca2d2ba078",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c404ca7d096298ab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "未分类/obsidian help/tamplate.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for tamplate"
+            }
+          },
+          {
+            "id": "1a60a067d155f1f1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "未分类/obsidian help/tamplate.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from tamplate"
+            }
+          },
+          {
+            "id": "012f770886581b7c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a8a2d70c4100dd72",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "6f4165de5ff136d1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "未分类/code/正则表达式必知必会.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 正则表达式必知必会"
+            }
+          },
+          {
+            "id": "586b6af185a66703",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 426.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "zk-prefixer:Create new unique note": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "bases:Create new base": false,
+      "graph:Open graph view": false,
+      "random-note:Open random note": false,
+      "command-palette:Open command palette": false,
+      "cmdr:左右分屏": false,
+      "cmdr:上下分屏": false,
+      "workspaces:Manage workspace layouts": false,
+      "remotely-save:Remotely Save": false,
+      "local-backup:Run local backup": false,
+      "copilot:Open Copilot Chat": false,
+      "cmdr:打开设置": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "7a9f5d6d946f748e",
+  "lastOpenFiles": [
+    "未分类/code/正则表达式必知必会.md",
+    "未分类/code/git测试.md",
+    "copilot/copilot-conversations/总结这个文件夹学习的内容逻辑@20260507_212539.md",
+    "copilot/copilot-conversations",
+    "copilot/copilot-custom-prompts/Clip Web Page.md",
+    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
+    "未分类/obsidian help/web clipper.md",
+    "未分类/code",
+    "学习废件/Untitled.base",
+    "未分类/obsidian help/base.md",
+    "学习废件/Untitled 1.md",
+    "学习废件/Untitled.md",
+    "未分类/obsidian help/tamplate.md",
+    "202602122139.md",
+    "测试同步.md",
+    "未分类/obsidian help/search.md",
+    "学习废件/Untitled.canvas",
+    "未分类/attachment/95EDCnhqKLce0KJiDVN0mfhEOo6zNOIIgI6ajUL-osgUR0LnVuP68Aw4jIUsFjAAL_li2gBy7DaFcz_oPxpvmYIleXCZ9r55YDiYhUxrDjtK3Nn2raV3MeveHWd4OYxF2RDA4KSgo_TmJcSkAZkfag.webp",
+    "未分类/attachment",
+    "未分类/obsidian help",
+    "学习废件",
+    "Templates",
+    "未分类"
+  ]
+}

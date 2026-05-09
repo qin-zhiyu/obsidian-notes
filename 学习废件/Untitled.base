@@ -1,0 +1,15 @@
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+    summaries:
+      file.name: Filled
+  - type: cards
+    name: View
+    sort: []
+  - type: list
+    name: View 2
+    order:
+      - file.name
+    indentProperties: true

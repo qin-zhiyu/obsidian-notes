@@ -1,0 +1,20 @@
+# 忽略插件源代码和资源文件
+.obsidian/plugins/*/main.js
+.obsidian/plugins/*/styles.css
+.obsidian/plugins/*/manifest.json
+.obsidian/plugins/remotely-save/
+
+# 忽略系统文件
+.DS_Store
+Thumbs.db
+
+# 忽略未来可能的大文件附件
+attachments/
+Images/
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.pdf
+*.mp3
+*.mp4
